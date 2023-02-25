@@ -32,6 +32,10 @@
   </form>
 </div>
 
+<br>
+<br>
+<br>
+<br>
 <div class="bottom-container">
   <div class="row">
     <div class="col">
